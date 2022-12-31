@@ -2,6 +2,7 @@ import smtplib
 from twilio.rest import Client
 
 #SMS from https://www.twilio.com/docs/sms
+# Your virtual number details , Twilio or another api sms provider 
 TWILIO_SID = YOUR TWILIO ACCOUNT SID
 TWILIO_AUTH_TOKEN = YOUR TWILIO AUTH TOKEN
 TWILIO_VIRTUAL_NUMBER = YOUR TWILIO VIRTUAL NUMBER
