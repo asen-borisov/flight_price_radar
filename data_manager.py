@@ -2,6 +2,7 @@ from pprint import pprint
 import requests
 
 # from https://sheety.co/
+# enter your wanted prices and destinations 
 SHEETY_PRICES_ENDPOINT = YOUR SHEETY PRICES ENDPOINT
 SHEETY_USERS_ENDPOINT = YOUR SHEETY USERS ENDPOINT
 
